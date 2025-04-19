@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "SHABAN-MD~W5JAHTSZ#vRGyhCYTclrbiPMa-hyRcB5owU0h6lp1xHbNxr1-JN0"
     },  
     
     "STICKER_NAME": {
@@ -36,7 +36,7 @@
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": false,
-      "value": "false"  
+      "value": "true"  
     },    
   
     "AUTO_VOICE": {
@@ -67,7 +67,7 @@
     "AUTO_STATUS_REACT": {
       "description": "make it true for automatic status reaction or like.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STATUS_REPLY": {
@@ -86,13 +86,13 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "MR-SHABAN"
+      "value": "Muhaj"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": true,
-      "value": "923043788282"
+      "value": "79274305323"
 
     }, 
 
@@ -106,7 +106,7 @@
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "true"
+      "value": "false"
       
     },
     
@@ -131,13 +131,13 @@
     "AUTO_RECORDING": {
       "description": "Make it true if you want auto recoding.",
       "required": true,
-      "value": "false"
+      "value": "true"
     },
 
     "AUTO_TYPING": {
       "description": "Make it true if you want auto typing.",
       "required": true,
-      "value": "false"
+      "value": "true"
     },
 
     "AUTO_REACT": {
@@ -162,13 +162,13 @@
     "ANTI_DEL_PATH": {
       "description": "change it to -same- if you want to resend deleted message in same chat",
       "required": false,
-      "value": "same"
+      "value": "false"
     }, 
 
     "READ_MESSAGE": {
       "description": "Make it true if you want bot read your all sms just now.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }
 
 },
